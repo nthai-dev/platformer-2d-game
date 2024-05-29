@@ -1,0 +1,16 @@
+
+
+java:S1104"UMake upPressed a static final constant or non-public and provide accessors if needed.(Ë¿á†øÿÿÿÿ8™¡œ¨÷1J$494f210a-a556-4329-8e34-543c3eed8ba7
+Ÿ
+java:S1104"WMake downPressed a static final constant or non-public and provide accessors if needed.(Ë¿á†øÿÿÿÿ8š¡œ¨÷1J$bb475472-ce68-4b6b-96f7-f6e72dd3574f
+Ÿ
+java:S1104"WMake leftPressed a static final constant or non-public and provide accessors if needed.(Ë¿á†øÿÿÿÿ8œ¡œ¨÷1J$67d7c1cb-d9ee-4cd2-809f-c03b3fec6935
+ 
+java:S1104"XMake rightPressed a static final constant or non-public and provide accessors if needed.(Ë¿á†øÿÿÿÿ8¡œ¨÷1J$0edd7fd9-b702-4588-910f-58cd6abdccb7
+Ä
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷—8£¡œ¨÷1J$dfc1623f-6245-4f96-9e72-62b8aaf6bf7f
+
+java:S1659"HDeclare "downPressed" and all following declarations on a separate line.(Ë¿á†øÿÿÿÿ8©¡œ¨÷1J$a7d4a424-e8f6-4ffc-8b0f-ca77f42e2ce9
+m	java:S106"+Replace this use of System.out by a logger.(¡·¤é8°¡œ¨÷1J$6aabd9e6-06f5-4ab3-92b9-db7cabc7cb11
+m	java:S106"+Replace this use of System.out by a logger.(š›Àö8ıÃ¨÷1J$1f409b5f-2f0c-4f5d-812a-3d04484e1bcb
+m	java:S106)"+Replace this use of System.out by a logger.(š›Àö8„ñ©÷1J$49c25558-7e77-4c8f-94f3-655f9cfd9a16
